@@ -1,26 +1,45 @@
 # Archipelago
 
+## Organizing standard
+
+File structure
+
+```
+playerName = Kebab case of the player name
+gameName = Kebab case of the name of the game
+
+
+Kebab case example
+"My long dog" = "myLongDog"
+```
+
+```
+{playerName}
+├── {playerName_gameName}.yaml
+└── {playerName_gameName}.yaml
+```
+
 
 ## Player play list
 
 ### Deoxan
 
 - Official
-    - Civilization VI
-    - Factorio
-    - Pokemon Emerald
-    - Pokemon Red and Blue
-    - Raft
-    - Risk of Rain 2
-    - Starcraft 2
-    - Stardew Valley
-    - Sudoku
+  - Civilization VI
+  - Factorio
+  - Pokemon Emerald
+  - Pokemon Red and Blue
+  - Raft
+  - Risk of Rain 2
+  - Starcraft 2
+  - Stardew Valley
+  - Sudoku
 - unofficial
-    - Hades
-    - Vampire Survivors
+  - Hades
+  - Vampire Survivors
 - Unstable
-    - Baldur's Gate 3
-    - The Planet Crafter
+  - Baldur's Gate 3
+  - The Planet Crafter
 
 ### Bazze
 
