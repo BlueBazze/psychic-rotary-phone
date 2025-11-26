@@ -13,6 +13,7 @@ Kebab case example
 "My long dog" = "myLongDog"
 "Risk of Rain 2" = "riskOfRain2"
 "Pokemon Red and Blue" = "pokemonRedAndBlue"
+"Baldur's Gate 3" = "baldursGate3"
 ```
 
 ```
