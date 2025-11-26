@@ -11,6 +11,8 @@ gameName = Kebab case of the name of the game
 
 Kebab case example
 "My long dog" = "myLongDog"
+"Risk of Rain 2" = "riskOfRain2"
+"Pokemon Red and Blue" = "pokemonRedAndBlue"
 ```
 
 ```
